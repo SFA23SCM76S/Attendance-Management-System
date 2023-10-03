@@ -1,1 +1,1 @@
-Attendance Management System Using Face Detection
+Attendance Management System Using Face Recognition
